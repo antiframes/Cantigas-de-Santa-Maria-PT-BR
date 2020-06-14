@@ -1,4 +1,4 @@
-# Cantigas-de-Santa-Maria-PT-BR
+# Cantigas de Santa Maria (PT-BR)
 Traduções brasileiras das cantigas medievais do Rei Dom Afonso X de Leão e Castela
 
 O presente projeto visa a tradução para português do Brasil das cantigas datadas do Século XIII
