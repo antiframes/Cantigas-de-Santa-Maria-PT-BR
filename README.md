@@ -12,5 +12,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 ## Índice de cantigas
 [7 - Santa Maria Amar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/007%20-%20Santa%20Maria%20Amar)
+
 [100 - Santa Maria, Estrela do Dia](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/100%20-%20Santa%20Maria%2C%20Estrela%20do%20Dia)
+
 [302 - Maria, a Mãe do Cristo](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/302%20-%20Maria%2C%20a%20M%C3%A3e%20do%20Cristo)
