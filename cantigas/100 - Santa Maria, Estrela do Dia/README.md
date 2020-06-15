@@ -4,6 +4,7 @@ Canção original: http://cantigasdesantamaria.com/csm/100
 
 ## Letra
 
+```
 Santa Maria, estrela do dia
 Guiai-nos até Deus em segura via
 Santa Maria, estrela do dia
@@ -50,3 +51,4 @@ Guiai-nos até Deus em segura via
 
 Santa Maria, estrela do dia
 Guiai-nos até Deus em segura via
+```
