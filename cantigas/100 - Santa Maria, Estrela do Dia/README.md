@@ -1,8 +1,8 @@
-#100 - Santa Maria, Estrela do Dia
+# 100 - Santa Maria, Estrela do Dia
 
 Canção original: http://cantigasdesantamaria.com/csm/100
 
-##Letra
+## Letra
 
 Santa Maria, estrela do dia
 Guiai-nos até Deus em segura via
