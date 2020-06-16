@@ -1,4 +1,7 @@
 # Cantigas de Santa Maria (PT-BR)
+
+![A corte musical de Dom Afonso X](https://upload.wikimedia.org/wikipedia/commons/7/72/Cantigas_Santa_Maria.jpg)
+
 Traduções brasileiras das cantigas medievais do Rei Dom Afonso X de Leão e Castela
 
 O presente projeto visa a tradução para português do Brasil das cantigas datadas do Século XIII
