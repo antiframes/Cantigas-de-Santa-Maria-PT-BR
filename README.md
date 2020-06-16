@@ -20,6 +20,10 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 [23 - Como Deus fez Vinho d'Água (A COMPLETAR)](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/023%20-%20Como%20Deus%20fez%20vinho%20d'%C3%A1gua) *(Como Déus fez vinno d'agua)*
 
+
+[42 - Virgem muito gloriosa (A COMPLETAR)](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/042%20-%20Virgem%20muito%20Gloriosa) *(A Virgen mui grorïosa)*
+
+
 [100 - Santa Maria, Estrela do Dia](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/100%20-%20Santa%20Maria%2C%20Estrela%20do%20Dia) *(Santa María, Strela do día)*
 
 [103 - Quem bem à Virgem servirá, ao Paraíso irá (A COMPLETAR)](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/103%20-%20Quem%20bem%20%C3%A0%20Virgem%20servir%C3%A1%2C%20ao%20Para%C3%ADso%20ir%C3%A1) *(Quena Virgen ben servirá a Paraíso irá)*
