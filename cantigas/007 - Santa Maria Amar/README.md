@@ -1,6 +1,9 @@
 # 7 - Santa Maria Amar
+*(Santa María amar)*
 
 Canção original: http://cantigasdesantamaria.com/csm/7
+
+Gravação original: https://www.youtube.com/watch?v=hWG6yOjqHLA
 
 ## Letra
 
