@@ -3,7 +3,7 @@
 
 Canção original: http://cantigasdesantamaria.com/csm/23
 
-Música original: https://www.youtube.com/watch?v=S12B4aAIjWs
+Gravação original: https://www.youtube.com/watch?v=S12B4aAIjWs
 
 ## Letra
 
