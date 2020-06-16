@@ -3,7 +3,7 @@
 
 Canção original: http://cantigasdesantamaria.com/csm/10
 
-Música original: https://www.youtube.com/watch?v=XgjZxQLiv7k
+Gravação original: https://www.youtube.com/watch?v=XgjZxQLiv7k
 
 ## Letra
 
