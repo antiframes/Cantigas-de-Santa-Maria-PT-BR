@@ -22,6 +22,6 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 [100 - Santa Maria, Estrela do Dia](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/100%20-%20Santa%20Maria%2C%20Estrela%20do%20Dia) *(Santa María, Strela do día)*
 
-[103 - Quem bem à Virgem servirá, ao Paraíso irá](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/103%20-%20Quem%20bem%20%C3%A0%20Virgem%20servir%C3%A1%2C%20ao%20Para%C3%ADso%20ir%C3%A1) *(Quena Virgen ben servirá a Paraíso irá)*
+[103 - Quem bem à Virgem servirá, ao Paraíso irá (A COMPLETAR)](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/103%20-%20Quem%20bem%20%C3%A0%20Virgem%20servir%C3%A1%2C%20ao%20Para%C3%ADso%20ir%C3%A1) *(Quena Virgen ben servirá a Paraíso irá)*
 
 [302 - Maria, a Mãe do Cristo (A COMPLETAR)](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/302%20-%20Maria%2C%20a%20M%C3%A3e%20do%20Cristo) *(A Madre de Jesú-Cristo)*
