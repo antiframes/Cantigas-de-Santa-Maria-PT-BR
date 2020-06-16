@@ -2,7 +2,8 @@
 *(A Madre de Jesú-Cristo)*
 
 Canção original: http://cantigasdesantamaria.com/csm/302
-Música original: https://www.youtube.com/watch?v=4hagS_-5fQQ
+
+Gravação original: https://www.youtube.com/watch?v=4hagS_-5fQQ
 
 ## Letra
 
