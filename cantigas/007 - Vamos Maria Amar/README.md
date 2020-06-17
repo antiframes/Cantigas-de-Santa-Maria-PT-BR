@@ -1,4 +1,4 @@
-# 7 - Santa Maria Amar
+# 7 - Vamos Maria Amar
 *(Santa María amar)*
 
 Canção original: http://cantigasdesantamaria.com/csm/7
@@ -8,7 +8,7 @@ Gravação original: https://www.youtube.com/watch?v=hWG6yOjqHLA
 ## Letra
 
 ```
-Santa Maria amar
+Vamos Maria amar
 Devemos sempre rogar
 Que sua graça ponha
 Sobre nós, pra que errar
@@ -28,7 +28,7 @@ Cabe sempre recordar
 Que a serpente pode estar
 Usando sua peçonha
 
-Santa Maria amar
+Vamos Maria amar
 Devemos sempre rogar
 Que sua graça ponha
 Sobre nós, pra que errar
@@ -48,7 +48,7 @@ Ele chegou e ao chamar
 A mulher, ela foi lá
 Feliz e bem risonha
 
-Santa Maria amar
+Vamos Maria amar
 Devemos sempre rogar
 Que sua graça ponha
 Sobre nós, pra que errar
@@ -68,7 +68,7 @@ Santa Maria foi tirar
 A criança e lhe confiar
 Às freiras da Borgonha
 
-Santa Maria amar
+Vamos Maria amar
 Devemos sempre rogar
 Que sua graça ponha
 Sobre nós, pra que errar
@@ -88,7 +88,7 @@ Mentiras ao denunciar
 Inocente ela está
 Que coisa enfadonha!
 
-Santa Maria amar
+Vamos Maria amar
 Devemos sempre rogar
 Que sua graça ponha
 Sobre nós, pra que errar
