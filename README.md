@@ -30,7 +30,8 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 [140 - A Santa Maria dados sejam louvores honrados ](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/140%20-%20A%20Santa%20Maria%20dados%20sejam%20Louvores%20honrados) *(A Santa María dadas sejan loores honrradas)* **(A COMPLETAR)**
 
-
 [256 - Quem na Virgem deposita sua esperança](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/256%20-%20Quem%20na%20Virgem%20deposita%20sua%20esperan%C3%A7a) *(Quen na Virgen grorïosa esperança mui grand' há)* **(A COMPLETAR)**
+
+[257 - Nossa Senhora protege com sua Virtude](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/257%20-%20Nossa%20Senhora%20protege%20com%20sua%20Virtude) *(Ben guarda Santa María pola sa vertude)* **(A COMPLETAR)**
 
 [302 - Maria, a Mãe do Cristo](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/302%20-%20Maria%2C%20a%20M%C3%A3e%20do%20Cristo) *(A Madre de Jesú-Cristo)* **(A COMPLETAR)**
