@@ -16,7 +16,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 ## Índice de cantigas
 [7 - Vamos Maria Amar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/007%20-%20Vamos%20Maria%20Amar) *(Santa María amar)* **(A COMPLETAR)**
 
-[10 - Rosa das Rosas](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/010%20-%20Rosa%20das%20Rosas) *(Rósa das rósas)* ✅
+[10 - Rosa das Rosas](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/010%20-%20Rosa%20das%20Rosas) *(Rósa das rósas)* ☑️
 
 [23 - Como Deus fez Vinho d'Água](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/023%20-%20Como%20Deus%20fez%20vinho%20d'%C3%A1gua) *(Como Déus fez vinno d'agua)* **(A COMPLETAR)**
 
@@ -24,7 +24,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 [42 - Virgem muito gloriosa](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/042%20-%20Virgem%20muito%20Gloriosa) *(A Virgen mui grorïosa)* **(A COMPLETAR)**
 
 
-[100 - Santa Maria, Estrela do Dia](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/100%20-%20Santa%20Maria%2C%20Estrela%20do%20Dia) *(Santa María, Strela do día)* ✅
+[100 - Santa Maria, Estrela do Dia](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/100%20-%20Santa%20Maria%2C%20Estrela%20do%20Dia) *(Santa María, Strela do día)* ☑️
 
 [103 - Alma que bons frutos dá, ao Paraíso irá](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/103%20-%20Alma%20que%20bons%20frutos%20d%C3%A1%2C%20ao%20Para%C3%ADso%20ir%C3%A1) *(Quena Virgen ben servirá a Paraíso irá)* **(A COMPLETAR)**
 
