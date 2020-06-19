@@ -13,7 +13,7 @@ Neste conto sua Mãe fez o milagre do vinho
 
 Então direi um milagre que deu na Bretanha
 Santa Maria fez a uma mulher da montanha
-Livrar-se se um azar com muito boa manha
+Livrar-se de um azar com muito boa manha
 Que milagre para um lugar humildezinho!
 
 Como Deus fez vinho d'água em um vilarinho
