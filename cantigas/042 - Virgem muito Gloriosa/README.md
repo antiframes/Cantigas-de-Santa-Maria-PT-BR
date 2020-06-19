@@ -18,9 +18,9 @@ A quem devemos louvor
 Pois é a Imaculada
 E Mãe de Nosso Senhor
 Contarei sobre a história
-De um falso namorador
+De um falso cortejador
 Que trocava seus amores
-Como um bom cara de pau
+E se achava o tal
 
 Virgem muito gloriosa
 Rainha espiritual
