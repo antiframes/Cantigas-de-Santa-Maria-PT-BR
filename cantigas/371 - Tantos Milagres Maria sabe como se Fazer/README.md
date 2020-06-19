@@ -11,7 +11,7 @@ Gravação original:  https://www.youtube.com/watch?v=d2vMMhGK_-o
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Falarei de um milagre
 De pouco tempo atrás
@@ -25,7 +25,7 @@ Para melhor entender
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Quando o Rei Dom Afonso
 Populava o lugar
@@ -39,7 +39,7 @@ E ele queria ver
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Muita gente já migrava
 Para o lugar, então
@@ -53,7 +53,7 @@ De bom futuro crescer
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Alguns buscavam trabalho
 Para o seu ganho mensal
@@ -67,7 +67,7 @@ Vieram aparecer
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Era por mar e por terra
 Que eles haviam de vir 
@@ -81,7 +81,7 @@ Como não se surpreender?
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Eis que vindo de Sevilha
 Um navio se aproximou
@@ -95,7 +95,7 @@ Vieram a perecer
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Assim que morreram todos
 Que estavam por ali
@@ -109,7 +109,7 @@ Pelo seu grande poder"
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 E depois de ter rezado
 Tudo então foi melhorar
@@ -123,7 +123,7 @@ Serviu para proteger
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 Foi levado pela água
 Como um barco de papel
@@ -137,7 +137,7 @@ E o povo foi socorrer
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 
 E todos se espantaram
 Entenderam muito bem
@@ -151,5 +151,5 @@ Para a Deus agradecer
 Tantos milagres Maria
 Sabe como se fazer
 Que a forma como ocorrem
-Nós não podemos dizer
+Não temos como dizer
 ```
