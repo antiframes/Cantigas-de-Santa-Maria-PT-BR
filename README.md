@@ -14,7 +14,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 
 ## Índice de cantigas
-[7 - Vamos Maria Amar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/007%20-%20Vamos%20Maria%20Amar) *(Santa María amar)* **(A COMPLETAR)**
+[7 - Para Maria Amar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/007%20-%20Para%20Maria%20Amar) *(Santa María amar)* **(A COMPLETAR)**
 
 [10 - Rosa das Rosas](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/010%20-%20Rosa%20das%20Rosas) *(Rósa das rósas)* ☑️
 

@@ -1,4 +1,4 @@
-# 7 - Vamos Maria Amar
+# 7 - Para Maria Amar
 *(Santa María amar)*
 
 Canção original: http://cantigasdesantamaria.com/csm/7
@@ -8,12 +8,12 @@ Gravação original: https://www.youtube.com/watch?v=hWG6yOjqHLA
 ## Letra
 
 ```
-Vamos Maria amar
+Para Maria amar
 Devemos sempre rogar
-Que sua graça ponha
-Sobre nós, pra que errar
-Não nos faça, nem pecar
-Que tenhamos vergonha
+Que em nós sempre ponha
+Sua graça sem cessar
+Para então transformar
+Nossa vida tristonha
 
 Agora eu contarei
 Um milagre que achei
@@ -28,12 +28,12 @@ Cabe sempre recordar
 Que a serpente pode estar
 Usando sua peçonha
 
-Vamos Maria amar
+Para Maria amar
 Devemos sempre rogar
-Que sua graça ponha
-Sobre nós, pra que errar
-Não nos faça, nem pecar
-Que tenhamos vergonha
+Que em nós sempre ponha
+Sua graça sem cessar
+Para então transformar
+Nossa vida tristonha
 
 As monjas, ao entender
 O que foi acontecer
@@ -43,20 +43,20 @@ Não queriam lhe fazer
 Até a autoridade
 Se foram pra acusar
 Sim, ao Bispo do lugar
-Da Igreja de Bolonha
+Falando da vergonha
 Ele chegou e ao chamar
 A mulher, ela foi lá
 Feliz e bem risonha
 
-Vamos Maria amar
+Para Maria amar
 Devemos sempre rogar
-Que sua graça ponha
-Sobre nós, pra que errar
-Não nos faça, nem pecar
-Que tenhamos vergonha
+Que em nós sempre ponha
+Sua graça sem cessar
+Para então transformar
+Nossa vida tristonha
 
 O Bispo falou ali:
-Mulher, pelo que aprendi
+Mulher, pelo que ouvi
 Fizeste mal, entenda
 Chamaram e vim aqui
 E agora peço que
@@ -66,14 +66,14 @@ Foi à Mãe de Deus rogar
 Como alguém que sonha
 Santa Maria foi tirar
 A criança e lhe confiar
-Às freiras da Borgonha
+Aos frades da Sansonha
 
-Vamos Maria amar
+Para Maria amar
 Devemos sempre rogar
-Que sua graça ponha
-Sobre nós, pra que errar
-Não nos faça, nem pecar
-Que tenhamos vergonha
+Que em nós sempre ponha
+Sua graça sem cessar
+Para então transformar
+Nossa vida tristonha
 
 Ela se tranquilizou
 E segura se achou
@@ -88,10 +88,10 @@ Mentiras ao denunciar
 Inocente ela está
 Que coisa enfadonha!
 
-Vamos Maria amar
+Para Maria amar
 Devemos sempre rogar
-Que sua graça ponha
-Sobre nós, pra que errar
-Não nos faça, nem pecar
-Que tenhamos vergonha
+Que em nós sempre ponha
+Sua graça sem cessar
+Para então transformar
+Nossa vida tristonha
 ```
