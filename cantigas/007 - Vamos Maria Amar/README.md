@@ -41,7 +41,7 @@ Notaram a maldade
 Mas a tal mulher sofrer
 Não queriam lhe fazer
 Até a autoridade
-Lhe foram pra acusar
+Se foram pra acusar
 Sim, ao Bispo do lugar
 Da Igreja de Bolonha
 Ele chegou e ao chamar
