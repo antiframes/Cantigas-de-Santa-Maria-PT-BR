@@ -35,3 +35,5 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 [257 - Nossa Senhora protege com sua Virtude](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/257%20-%20Nossa%20Senhora%20protege%20com%20sua%20Virtude) *(Ben guarda Santa María pola sa vertude)* **(A COMPLETAR)**
 
 [302 - Maria, a Mãe do Cristo](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/302%20-%20Maria%2C%20a%20M%C3%A3e%20do%20Cristo) *(A Madre de Jesú-Cristo)* **(A COMPLETAR)**
+
+[371 - Tantos Milagres Maria sabe como se Fazer](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/371%20-%20Tantos%20Milagres%20Maria%20sabe%20como%20se%20Fazer) *(Tantos vai Santa María eno séu Pórto fazer de miragres)* **(A COMPLETAR)**
