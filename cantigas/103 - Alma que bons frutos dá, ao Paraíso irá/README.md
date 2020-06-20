@@ -3,9 +3,11 @@
 
 Canção original: http://cantigasdesantamaria.com/csm/103
 
-Gravação original: https://www.youtube.com/watch?v=3HlBp2VEEmY
+Gravação original: https://www.youtube.com/watch?v=3z7Q5y-AXfs
 
 ## Letra
+
+Como Santa Maria fez o monge ficar trezentos anos ouvindo o canto do passarinho, porque lhe pedia que mostrasse qual era o bem que tinham os que estavam no Paraíso. 
 
 ```
 E agora um bom milagre
