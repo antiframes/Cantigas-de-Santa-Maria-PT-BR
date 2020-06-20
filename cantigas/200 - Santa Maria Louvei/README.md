@@ -9,7 +9,7 @@ Gravação original: https://www.youtube.com/watch?v=-T9THxlAB0A
 
 ```
 Santa Maria louvei
-E louvo e louvarei
+E louvo e louvarei (2x)
 
 Digo aos desamparados:
 "Vocês podem ser amados

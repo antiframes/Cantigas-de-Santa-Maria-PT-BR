@@ -10,7 +10,7 @@ Gravação original: https://www.youtube.com/watch?v=hWG6yOjqHLA
 ```
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre ponha
+Que em nós sempre se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -30,7 +30,7 @@ Usando sua peçonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre ponha
+Que em nós sempre se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -50,7 +50,7 @@ Feliz e bem risonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre ponha
+Que em nós sempre se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -70,7 +70,7 @@ Aos frades da Sansonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre ponha
+Que em nós sempre se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -90,7 +90,7 @@ Que coisa enfadonha!
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre ponha
+Que em nós sempre se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
