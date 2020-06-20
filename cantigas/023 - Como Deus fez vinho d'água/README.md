@@ -14,7 +14,7 @@ Neste conto sua Mãe fez o milagre do vinho
 Então direi um milagre que deu na Bretanha
 Santa Maria fez a uma mulher da montanha
 Livrar-se de um azar com muito boa manha
-Que milagre para um lugar humildezinho!
+Ela sempre trata os seus filhos com carinho
 
 Como Deus fez vinho d'água em um vilarinho
 Neste conto sua Mãe fez o milagre do vinho
