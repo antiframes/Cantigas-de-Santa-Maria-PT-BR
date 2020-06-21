@@ -7,10 +7,12 @@ Gravação original: https://www.youtube.com/watch?v=hWG6yOjqHLA
 
 ## Letra
 
+Esta é de como Santa Maria livrou a abadessa grávida
+
 ```
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre se ponha
+Que em nós se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -19,7 +21,7 @@ Agora eu contarei
 Um milagre que achei
 Que em uma abadessa
 Fez a Mãe do Grande Rei
-Sobre ela eu falarei:
+Sobre ela falarei:
 Pode ser que aconteça
 De o demônio avançar
 Ela foi s'engravidar
@@ -30,7 +32,7 @@ Usando sua peçonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre se ponha
+Que em nós se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -41,7 +43,7 @@ Notaram a maldade
 Mas a tal mulher sofrer
 Não queriam lhe fazer
 Até a autoridade
-Se foram pra acusar
+Se foram acusar
 Sim, ao Bispo do lugar
 Falando da vergonha
 Ele chegou e ao chamar
@@ -50,7 +52,7 @@ Feliz e bem risonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre se ponha
+Que em nós se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -70,7 +72,7 @@ Aos frades da Sansonha
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre se ponha
+Que em nós se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
@@ -85,12 +87,12 @@ O Bispo, a Deus foi louvar
 E às monjas foi gritar
 Que não mais se exponha
 Mentiras ao denunciar
-Inocente ela está
+Inocente está
 Que coisa enfadonha!
 
 Para Maria amar
 Devemos sempre rogar
-Que em nós sempre se ponha
+Que em nós se ponha
 Sua graça sem cessar
 Para então transformar
 Nossa vida tristonha
