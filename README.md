@@ -14,6 +14,10 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 
 ## Índice de cantigas
+Letras traduzidas: 14/427
+
+[1 - Agora eu quero louvar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/001%20-%20Agora%20Eu%20Quero%20Louvar) *(Des hoge mais quér' éu trobar)* **(A COMPLETAR)**
+
 [7 - Para Maria Amar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/007%20-%20Para%20Maria%20Amar) *(Santa María amar)* ☑️
 
 [10 - Rosa das Rosas](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/010%20-%20Rosa%20das%20Rosas) *(Rósa das rósas)* ☑️
