@@ -14,7 +14,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 
 ## Índice de cantigas
-Letras traduzidas: 14/427
+Letras traduzidas: 15/427
 
 [1 - Agora eu quero louvar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/001%20-%20Agora%20Eu%20Quero%20Louvar) *(Des hoge mais quér' éu trobar)* **(A COMPLETAR)**
 
@@ -23,6 +23,8 @@ Letras traduzidas: 14/427
 [10 - Rosa das Rosas](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/010%20-%20Rosa%20das%20Rosas) *(Rósa das rósas)* ☑️
 
 [14 - Pra Deus, há uma razão](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/014%20-%20Pra%20Deus%2C%20h%C3%A1%20uma%20Raz%C3%A3o) *(Par Déus, muit' é gran razôn)* **(A COMPLETAR)**
+
+[20 - Ó Virgem, desce](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/020%20-%20%C3%93%20Virgem%2C%20desce) *(Virga de Jésse)* **(A COMPLETAR)**
 
 [23 - Como Deus fez Vinho d'Água](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/023%20-%20Como%20Deus%20fez%20vinho%20d'%C3%A1gua) *(Como Déus fez vinno d'agua)* **(A COMPLETAR)**
 
