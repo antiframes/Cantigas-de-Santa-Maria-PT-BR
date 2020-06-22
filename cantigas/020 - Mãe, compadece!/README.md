@@ -1,4 +1,4 @@
-# 20 - Ó Virgem, desce
+# 20 - Mãe, compadece!
 *(Virga de Jésse)*
 
 Canção original: http://cantigasdesantamaria.com/csm/20
@@ -10,7 +10,7 @@ Gravação original: https://www.youtube.com/watch?v=TVU0OvCbl8I
 Esta é de louvor a Santa Maria, pelas graças que ela nos dá
 
 ```
-Ó Virgem, desce
+Mãe, compadece!
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -28,7 +28,7 @@ Mesmo assim, quando
 Estamos rezando
 Atendes nossas preces
 
-Ó Virgem, desce
+Mãe, compadece!
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -46,7 +46,7 @@ Tu vais guardando
 E amparando
 Pois a paz ofereces
 
-Ó Virgem, desce
+Mãe, compadece!
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -64,7 +64,7 @@ Vais compreendendo,
 Nos defendendo
 Com amor, abasteces
 
-Ó Virgem, desce
+Mãe, compadece!
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -82,7 +82,7 @@ A ti me rendo
 Me recomendo
 Pois tu sempre guarneces
 
-Ó Virgem, desce
+Mãe, compadece!
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
