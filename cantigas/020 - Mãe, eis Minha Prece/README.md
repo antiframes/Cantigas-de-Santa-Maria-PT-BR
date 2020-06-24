@@ -1,4 +1,4 @@
-# 20 - Mãe, compadece!
+# 20 - Mãe, eis minha prece
 *(Virga de Jésse)*
 
 Canção original: http://cantigasdesantamaria.com/csm/20
@@ -10,7 +10,7 @@ Gravação original: https://www.youtube.com/watch?v=TVU0OvCbl8I
 Esta é de louvor a Santa Maria, pelas graças que ela nos dá
 
 ```
-Mãe, compadece!
+Mãe, eis minha prece:
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -25,10 +25,10 @@ Aqui pecando
 E não amando
 Como te aborreces!
 Mesmo assim, quando
-Estamos rezando
-Atendes nossas preces
+Vamos falhando
+Sempre nos robusteces
 
-Mãe, compadece!
+Mãe, eis minha prece:
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -46,7 +46,7 @@ Tu vais guardando
 E amparando
 Pois a paz ofereces
 
-Mãe, compadece!
+Mãe, eis minha prece:
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -64,7 +64,7 @@ Vais compreendendo,
 Nos defendendo
 Com amor, abasteces
 
-Mãe, compadece!
+Mãe, eis minha prece:
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
@@ -82,7 +82,7 @@ A ti me rendo
 Me recomendo
 Pois tu sempre guarneces
 
-Mãe, compadece!
+Mãe, eis minha prece:
 Ah! se soubesse
 Louvar como mereces
 E se pudesse
