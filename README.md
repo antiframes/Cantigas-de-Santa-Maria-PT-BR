@@ -14,7 +14,7 @@ Que Nossa Senhora nos guie neste projeto e que brevemente este acervo informal p
 
 
 ## Índice de cantigas
-Letras traduzidas: 15/427
+Letras traduzidas: 17/427
 
 [1 - Agora eu quero louvar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/001%20-%20Agora%20Eu%20Quero%20Louvar) *(Des hoge mais quér' éu trobar)* **(A COMPLETAR)**
 
