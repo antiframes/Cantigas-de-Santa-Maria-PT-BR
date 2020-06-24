@@ -7,6 +7,8 @@ Gravação original: https://www.youtube.com/watch?v=lkHALBd_GjU
 
 ## Letra
 
+Esta é de louvor a Santa Maria
+
 ```
 Quem quiser ter de mulher um amor
 Que seja da Mãe de Nosso Senhor
