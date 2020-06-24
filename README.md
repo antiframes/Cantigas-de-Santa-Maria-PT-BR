@@ -59,4 +59,5 @@ Letras traduzidas: 17/427
 ## Contribuidores
 
 Giovani de Quadros - Pesquisa, tradução, cifras e organização
+
 Octávio Amaral Machado - Partituras, correções e áudios
