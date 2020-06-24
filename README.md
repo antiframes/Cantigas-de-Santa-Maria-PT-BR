@@ -45,3 +45,14 @@ Letras traduzidas: 15/427
 [302 - Maria, a Mãe do Cristo](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/302%20-%20Maria%2C%20a%20M%C3%A3e%20do%20Cristo) *(A Madre de Jesú-Cristo)* **(A COMPLETAR)**
 
 [371 - Tantos Milagres Maria sabe como se Fazer](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/371%20-%20Tantos%20Milagres%20Maria%20sabe%20como%20se%20Fazer) *(Tantos vai Santa María eno séu Pórto fazer de miragres)* **(A COMPLETAR)**
+
+## Referências úteis
+
+[Banco de dados das canções](http://csm.mml.ox.ac.uk/index.php?p=poem_list)
+
+[Galeria de iluminuras](http://cantigas.webcindario.com/cantigas/indicecantigas.htm)
+
+## Contribuidores
+
+Giovani de Quadros - Pesquisa, tradução, cifras e organização
+Octávio Amaral Machado - Partituras, correções e áudios
