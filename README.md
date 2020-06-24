@@ -18,7 +18,7 @@ Letras traduzidas: 17/427
 
 ☑️ - Completas
 
-🤡 - Politicamente incorretas nos tempos atuais
+📜 - Politicamente incorretas nos tempos atuais
 
 [1 - Agora eu quero louvar](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/001%20-%20Agora%20Eu%20Quero%20Louvar) *(Des hoge mais quér' éu trobar)* **(A COMPLETAR)**
 
@@ -40,7 +40,7 @@ Letras traduzidas: 17/427
 
 [110 - Tanto é Santa Maria](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/110%20-%20Tanto%20%C3%A9%20Santa%20Maria) *(Tant' é Santa María de ben mui comprida)* **(A COMPLETAR)**
 
-[130 - Quem quiser ter de mulher um amor](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/130%20-%20Quem%20quiser%20ter%20de%20Mulher%20um%20Amor) *(Quen entender quisér)* **(A COMPLETAR)** 🤡 
+[130 - Quem quiser ter de mulher um amor](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/130%20-%20Quem%20quiser%20ter%20de%20Mulher%20um%20Amor) *(Quen entender quisér)* **(A COMPLETAR)** 📜
 
 [140 - A Santa Maria dados sejam louvores honrados](https://github.com/antiframes/Cantigas-de-Santa-Maria-PT-BR/tree/master/cantigas/140%20-%20A%20Santa%20Maria%20dados%20sejam%20Louvores%20honrados) *(A Santa María dadas sejan loores honrradas)* **(A COMPLETAR)**
 
